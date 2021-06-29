@@ -1,0 +1,14 @@
+{ 
+    name: "bundle-egg"
+    displayName: "Bundle-EGG"
+    author: "[#87CEEB[]]JrTRinny[]"
+    description: '''
+    EGG SUPREMACY
+    
+    -REPLACE EVERYTHING WITH EGG
+    -CHAOTIC ENERGY NOT INCLUDED
+    '''
+    version: "1.0"
+    minGameVersion: 126
+    hidden: true
+}
